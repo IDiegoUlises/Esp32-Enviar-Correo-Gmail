@@ -60,5 +60,7 @@ void loop()
   //Un retardo para no enviar demasiados correos
   delay(100000);
 }
-
 ```
+
+### Correo recibido
+<img src="https://github.com/IDiegoUlises/Esp32-Enviar-Correo-Gmail/blob/main/Images/Correo-Enviado-Desde-Esp32.png" />
