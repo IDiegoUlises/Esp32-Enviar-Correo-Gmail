@@ -4,6 +4,7 @@
 ```c++
 #include "ESP32_MailClient.h"
 
+//Las credenciales de la red WiFI
 const char* ssid = "SSID";
 const char* password = "PASSWORD";
 
