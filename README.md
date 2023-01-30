@@ -1,4 +1,4 @@
-# Esp32-Enviar-Correo-Gmail
+# Esp32 Enviar Correo Gmail
 
 ### Libreria
 <img src="https://github.com/IDiegoUlises/Esp32-Enviar-Correo-Gmail/blob/main/Images/Libreria.png" />
@@ -62,5 +62,5 @@ void loop()
 }
 ```
 
-### Correo recibido
+### Correo Recibido
 <img src="https://github.com/IDiegoUlises/Esp32-Enviar-Correo-Gmail/blob/main/Images/Correo-Enviado-Desde-Esp32.png" />
